@@ -1,5 +1,8 @@
 ### PROJECT: Javascript Basics | Problems 1-3 of Project Euler
 
-The first 3 Project Euler problems solved using Javascript.
+This repository contains the first three problems of the Project Euler. Each problem is solved based on the user's input. 
+Written in HTML/CSS and Javascript.
 
-More info about this project at [The Odin Project](http://www.theodinproject.com/web-development-101/javascript-basics)
+View the website [here](https://cryogenicdew23.github.io/project-euler/)
+
+More info about this and more projects at [The Odin Project](http://www.theodinproject.com/home)
